@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
-    CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
-    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-    AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
+    SESSION_ID: process.env.SESSION_ID || "S3wAjKzR#js_q6B-WNEdpgd-rCYTGCgl_MzLnSFRDA1QCvF7ZWpk",
+    CAPTION: process.env.CAPTION || "POWERED BY DROSH UG432",
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
+    AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
-    AUTO_VOICE: process.env.AUTO_VOICE || "true",
+    AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
@@ -27,7 +27,7 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
-    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂`",
+    BOT_NAME: process.env.BOT_NAME || "@DROSH🥰",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү drosh-sσвx-м∂`",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
